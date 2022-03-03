@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  scroll-behavior: smooth;
+}
+.hack_main {
+  height: 100vh;
+  width: 100vw;
+  text-align: center;
+  background-color: tomato;
+}
+.heading_main {
+  cursor: pointer;
+  padding-top: 5rem;
+}
+button {
+  margin-top: 4rem;
+  cursor: pointer;
+}
