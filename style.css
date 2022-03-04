@@ -10,7 +10,7 @@ html {
   height: 100vh;
   width: 100vw;
   text-align: center;
-  background-color: tomato;
+  background-color: blue;
 }
 .heading_main {
   cursor: pointer;
@@ -20,3 +20,4 @@ button {
   margin-top: 4rem;
   cursor: pointer;
 }
+
